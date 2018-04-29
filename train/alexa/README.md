@@ -1,0 +1,1 @@
+How to train alexa given the operation folder

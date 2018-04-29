@@ -1,0 +1,1 @@
+Contains text for each supported operation
